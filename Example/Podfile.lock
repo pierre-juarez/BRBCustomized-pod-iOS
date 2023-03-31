@@ -1,5 +1,5 @@
 PODS:
-  - BRBCustomized (0.1.0)
+  - BRBCustomized (1.0.0)
 
 DEPENDENCIES:
   - BRBCustomized (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  BRBCustomized: 7b5d7f4167604daacb8cafd676da3c3538644516
+  BRBCustomized: 0a117a3babf3832cdd0a420749be4d7c5f9b303f
 
-PODFILE CHECKSUM: f17b74a8f812edc81dced69f57a65b6e420230e8
+PODFILE CHECKSUM: b2d886a9b2496170e6895314d9e5e711055af5ae
 
 COCOAPODS: 1.11.3

@@ -1,22 +1,22 @@
 {
   "name": "BRBCustomized",
-  "version": "0.1.0",
-  "summary": "A short description of BRBCustomized.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/76144339/BRBCustomized",
+  "version": "1.0.0",
+  "summary": "Custom border, radius and background",
+  "description": "Custom border, radius and background in Swift. 🥳 This is also my first published pod, apologies for that.  😅",
+  "homepage": "https://github.com/pierre-juarez/BRBCustomized-pod-iOS",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "76144339": "76144339+pierre-juarez@users.noreply.github.com"
+    "Pierre Juarez": "76144339+pierre-juarez@users.noreply.github.com"
   },
   "source": {
-    "git": "https://github.com/76144339/BRBCustomized.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/pierre-juarez/BRBCustomized-pod-iOS.git",
+    "tag": "1.0.0"
   },
   "platforms": {
-    "ios": "10.0"
+    "ios": "11.0"
   },
   "source_files": "BRBCustomized/Classes/**/*"
 }

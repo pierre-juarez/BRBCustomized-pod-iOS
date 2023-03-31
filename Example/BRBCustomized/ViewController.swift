@@ -7,12 +7,16 @@
 //
 
 import UIKit
+import BRBCustomized
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var viewExample: BRCustomized!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        viewExample.setupView(cornerRadius: 15, borderColor: UIColor.blue)
     }
 
     override func didReceiveMemoryWarning() {
