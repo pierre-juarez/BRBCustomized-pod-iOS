@@ -1,0 +1,6 @@
+framework module BRBCustomized {
+  umbrella header "BRBCustomized-umbrella.h"
+
+  export *
+  module * { export * }
+}

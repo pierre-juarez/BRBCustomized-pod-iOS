@@ -1,0 +1,22 @@
+{
+  "name": "BRBCustomized",
+  "version": "0.1.0",
+  "summary": "A short description of BRBCustomized.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/76144339/BRBCustomized",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "76144339": "76144339+pierre-juarez@users.noreply.github.com"
+  },
+  "source": {
+    "git": "https://github.com/76144339/BRBCustomized.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "BRBCustomized/Classes/**/*"
+}
